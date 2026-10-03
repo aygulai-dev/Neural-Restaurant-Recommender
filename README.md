@@ -4,7 +4,7 @@
 
 **Neural Collaborative Filtering (GMF · MLP · NeuMF) with KernelSHAP explanations**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/REPO/blob/main/neural_restaurant_recommender_shap.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/   aygulai-dev/neural-restaurant-recommender/blob/main/neural_restaurant_recommender_shap.ipynb)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.x-ee4c2c)
 ![Captum](https://img.shields.io/badge/XAI-Captum%20(KernelSHAP)-6f42c1)
@@ -210,8 +210,8 @@ The embedding layers are the representation-learning component: instead of hand-
 **Run locally**
 
 ```bash
-git clone https://github.com/USERNAME/REPO.git
-cd REPO
+git clone https://github.com/   aygulai-dev/neural-restaurant-recommender.git
+   cd neural-restaurant-recommender
 pip install torch captum scikit-learn pandas numpy matplotlib seaborn
 jupyter notebook neural_restaurant_recommender_shap.ipynb
 ```
