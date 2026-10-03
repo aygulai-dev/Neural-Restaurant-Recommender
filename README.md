@@ -233,8 +233,8 @@ The project structure, model choices, training logic and analysis are the author
 
 ## References
 
-1. He, X., Liao, L., Zhang, H., Nie, L., Hu, X., & Chua, T.-S. (2017). **Neural Collaborative Filtering.** *Proceedings of the 26th International Conference on World Wide Web (WWW)*.
-2. Lundberg, S. M., & Lee, S.-I. (2017). **A Unified Approach to Interpreting Model Predictions.** *Advances in Neural Information Processing Systems (NeurIPS)*.
-3. Kokhlikyan, N., et al. (2020). **Captum: A unified and generic model interpretability library for PyTorch.** *arXiv:2009.07896*.
-4. He, X., et al. (2020). **LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation.** *SIGIR*. (source of the Yelp2018 benchmark split)
-5. Yelp Open Dataset. https://www.yelp.com/dataset
+1. He, X., Liao, L., Zhang, H., Nie, L., Hu, X., & Chua, T.-S. (2017). **Neural Collaborative Filtering.** In *Proceedings of the 26th International Conference on World Wide Web (WWW '17)*, pp. 173–182. https://doi.org/10.1145/3038912.3052569 (arXiv:1708.05031)
+2. Lundberg, S. M., & Lee, S.-I. (2017). **A Unified Approach to Interpreting Model Predictions.** In *Advances in Neural Information Processing Systems 30 (NIPS 2017)*. arXiv:1705.07874
+3. Kokhlikyan, N., Miglani, V., Martin, M., Wang, E., Alsallakh, B., Reynolds, J., Melnikov, A., Kliushkina, N., Araya, C., Yan, S., & Reblitz-Richardson, O. (2020). **Captum: A unified and generic model interpretability library for PyTorch.** arXiv:2009.07896
+4. He, X., Deng, K., Wang, X., Li, Y., Zhang, Y., & Wang, M. (2020). **LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation.** In *Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '20)*. https://doi.org/10.1145/3397271.3401063 (source of the Yelp2018 benchmark files used for the data download)
+5. Yelp Open Dataset. Yelp Inc. https://www.yelp.com/dataset
